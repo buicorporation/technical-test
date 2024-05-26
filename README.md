@@ -103,3 +103,9 @@ We want you to know that the mobile application is intended for simple consumers
 - The installation of caches is highly recommended.
 
 **NB: There may be a trap.**
+
+
+## Diagram
+
+![Domain-Driven Hexagon](assets/images/DomainDrivenHexagon.png)
+<sup>Diagram is mostly based on [this one](https://github.com/hgraca/explicit-architecture-php#explicit-architecture-1) + others found online</sup>
